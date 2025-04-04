@@ -1,26 +1,33 @@
-Landpage Wecare
+# 🩺 Landing Page WeCare – Projeto DevClub
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/AndersonGFrota/converso-de-moedas/blob/main/LICENSE) 
+[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/AndersonGFrota/Landpage-Wecare/blob/main/LICENSE)
+[![Author](https://img.shields.io/badge/Autor-Anderson%20Frota-lightgrey)](https://www.linkedin.com/in/andersongfrota)
 
-# Sobre o projeto
+## 📄 Sobre o projeto
 
- Landpage Wecare criado em estudos no **DevClub**, curso organizado pela [DevClub](https://rodolfomori.com.br/devclub-n1/ "Site da DevClub").
+A **Landing Page WeCare** foi desenvolvida como parte das aulas do curso **DevClub**, com o objetivo de aplicar técnicas de **HTML** e **CSS** para criação de uma interface limpa, informativa e responsiva.
 
-A aplicação consiste em dedsenvolver tecnicas aprendidas em curso.
+Essa página simula a apresentação de uma clínica de cuidados, reforçando a importância do posicionamento visual e organização de conteúdo em páginas institucionais.
 
-## Modelo conceitual
-![Modelo Conceitual](https://github.com/AndersonGFrota/Landpage-Wecare/blob/main/Beige%20Brown%20Aesthetic%20Save%20The%20Date%20Editable%20Mockup%20Instagram%20Post%20(1).png)
+---
 
-# Tecnologias utilizadas
+## 🖼️ Visual do projeto
 
-## Front end
-- Html 
-- Css
+![Mockup](https://github.com/AndersonGFrota/Landpage-Wecare/blob/main/Beige%20Brown%20Aesthetic%20Save%20The%20Date%20Editable%20Mockup%20Instagram%20Post%20(1).png)
 
+---
 
+## 🚀 Tecnologias utilizadas
 
-# Autor
+- HTML5  
+- CSS3  
 
-Anderson frota Goncalves
+---
 
-https://www.linkedin.com/in/anderson-frota-0016482aa/
+## 👨‍💻 Autor
+
+Desenvolvido por **Anderson Frota Gonçalves**  
+[LinkedIn](https://www.linkedin.com/in/andersongfrota)  
+[GitHub](https://github.com/AndersonGFrota)
+
+---
